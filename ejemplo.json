@@ -1,0 +1,10 @@
+{
+	"nombre": "Mario",
+	"apellidoPaterno": "Ramirez",
+	"edad": 30,
+	"aficiones": [
+		"Programar",
+		"Deporte",
+		"Video Juegos"
+	]
+}
